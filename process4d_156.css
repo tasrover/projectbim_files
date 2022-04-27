@@ -1,0 +1,244 @@
+html,
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.gantt_task_cell,
+.gantt_cell,
+.gantt_grid_scale,
+.gantt_scale_line,
+.gantt_data_area,
+.gantt_grid_data {
+    background-color: #022e8d;
+}
+
+.gantt_grid_scale .gantt_grid_head_cell,
+.gantt_tree_content,
+.gantt_scale_cell {
+    color: whitesmoke !important;
+}
+
+.gantt_row {
+    border: none;
+}
+
+.main {
+    /* flex-direction: column; */
+    /* overflow: no-display; */
+    height: 100%;
+    width: 100%;
+    /* display: inline-block; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    /* 元素在垂直方向上的对齐位置；如设置换行属性，此属性失效 */
+    /*align-items: flex-end;*/
+    /* 允许换行 */
+    flex-wrap: wrap;
+    /* 各行底对齐 */
+    align-content: flex-start;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.model {
+    width: 100%;
+    height: 100%;
+    border: 1px solid darkgray;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0);
+    /* box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); */
+}
+
+.models {
+    width: 100%;
+    height: 50%;
+    float: left;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.modelCover1 {
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding: 0 10px 20px 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.bf-container {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.modelCover2 {
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding: 0 0 20px 10px;
+    background-color: rgba(0, 0, 0, 0);
+    /* transition: width 1s; */
+    /* -webkit-transition: width 1s; Safari */
+    /* margin-left: 1.68%; */
+}
+
+.bottom {
+    width: 100%;
+}
+
+.button {
+    display: flex;
+    width: 50%;
+    height: 100%;
+}
+
+.info {
+    width: 100%;
+    height: 100%;
+    /* float: left; */
+    /* padding: 0 0 20px 20px; */
+    /* box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23); */
+    /* margin-left: 1%; */
+    border: 1px solid darkgray;
+    border-radius: 20px;
+}
+
+.Chart {
+    display: inline-block;
+    background: #ffffff;
+    color: #070707;
+    width: 100%;
+    height: 45%;
+    border: 1px solid darkgray;
+    border-radius: 20px;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    border-radius: 1cm;
+}
+
+#GanttContainer {
+    width: 100%;
+    height: 100%;
+}
+
+#CurveContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.accordion {
+    margin: 1rem 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid #e5e5e5;
+}
+
+.accordion-item {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.accordion-panel {
+    font-size: 1em;
+    font-weight: 300;
+}
+
+
+/* Thumb */
+
+.accordion-thumb {
+    margin: 0;
+    padding: .8rem 0;
+    cursor: pointer;
+    font-weight: normal;
+    font-size: 1em;
+}
+
+.accordion-thumb::before {
+    content: '';
+    display: inline-block;
+    height: 5px;
+    width: 5px;
+    margin-right: 1rem;
+    margin-left: .5rem;
+    vertical-align: middle;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    transform: rotate(-45deg);
+    transition: transform .2s ease-out;
+}
+
+
+/* Panel */
+
+.accordion-panel {
+    margin: 0;
+    display: none;
+}
+
+
+/* Active */
+
+.accordion-item.is-active .accordion-thumb::before {
+    transform: rotate(45deg);
+}
+
+.highcharts-xaxis-labels text {
+    cursor: pointer!important;
+}
+
+.highcharts-xaxis-labels .active {
+    fill: #f3b006 !important;
+}
+
+.submit {
+    font-size: 1em;
+    font-weight: 1000;
+    width: 100px;
+    height: 35px;
+    background-color: #0dbf0100;
+    /* color: white; */
+    color: #007bff;
+    border: #e9e9e9;
+    transition: transform .2s ease-out;
+}
+
+.highlighted-column {
+    background-color: #fff3a1;
+}
+
+.gantt_scale_cell {
+    cursor: pointer;
+    height: 50px;
+    font-size: 1em;
+}
+
+.gantt_task_scale .gantt_scale_cell {
+    cursor: default;
+}
+
+.gantt_task_scale .gantt_scale_cell.highlighted-column {
+    color: #454545;
+    font-weight: bold;
+}
+
+.styled-select {
+    margin-left: 10px;
+    background: transparent;
+    font-weight: 1000;
+    width: 55px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    height: 34px;
+    color: #007bff;
+    -webkit-appearance: none;
+    /*for chrome*/
+}
