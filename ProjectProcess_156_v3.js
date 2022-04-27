@@ -30,6 +30,9 @@ function onSDKLoadSucceeded(viewMetaData) {
             'height': '32px',
             'margin': '0 auto',
         });
+        $(".bf-loading-progress").css({
+            'color': "white",
+        });
     });
     planned.addEventListener('ViewAdded', function() {
         $(".bf-toolbar").hide();
