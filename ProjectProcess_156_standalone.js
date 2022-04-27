@@ -359,7 +359,7 @@ function Gantt_grid_click(id) {
     var color0 = new Glodon.Web.Graphics.Color(status, 0.9);
     var sectionElements = []
     for (x in task.section) {
-        var positon = all_section_ids.indexof(x);
+        var positon = all_section_ids.indexOf(x);
         sectionElements.push.apply(sectionElements, all_section_elements[positon]);
     }
     viewer3D1.getModel().overrideComponentsColorById(sectionElements, color0);
@@ -419,7 +419,7 @@ function GanttClickEvents(date) {
     if (section_list != "") {
         var sectionElements = []
         for (x in section_list) {
-            var positon = all_section_ids.indexof(x);
+            var positon = all_section_ids.indexOf(x);
             sectionElements.push.apply(sectionElements, all_section_elements[positon]);
         }
         viewer3D1.getModel().overrideComponentsColorById(sectionElements, color0);
@@ -451,7 +451,7 @@ function GanttClickEvents(date) {
     if (week_finished_section != "") {
         var sectionElements = []
         for (x in week_finished_section) {
-            var positon = all_section_ids.indexof(x);
+            var positon = all_section_ids.indexOf(x);
             sectionElements.push.apply(sectionElements, all_section_elements[positon]);
         }
         viewer3D1.getModel().overrideComponentsColorById(sectionElements, color0);
