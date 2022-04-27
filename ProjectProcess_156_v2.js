@@ -362,6 +362,7 @@ function Gantt_grid_click(id) {
         var positon = all_section_ids.indexOf(x);
         sectionElements.push.apply(sectionElements, all_section_elements[positon]);
     }
+    console.log(sectionElements);
     viewer3D1.getModel().overrideComponentsColorById(sectionElements, color0);
     viewer3D1.render();
     // 删除访问服务端功能
