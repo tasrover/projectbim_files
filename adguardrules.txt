@@ -1,3 +1,4 @@
+tegouys.com##div.myui-nav__tabbar
 gimy.app###footernav
 m.v.qq.com###container-play > section.mod_box.mod_sideslip_privileges.U_box_bg_a
 m.v.qq.com###container-play > section.mod_box.mod_game_rec
