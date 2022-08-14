@@ -1,11 +1,26 @@
-||pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > div.row.p-1:nth-child(11)^
-||pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > h5.mt-3:nth-child(10)^
-||pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > span:nth-child(6)^
-||pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > div.row.p-1:nth-child(10)^
-||pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > h5.mt-3:nth-child(9)^
-||pornlulu.com###w3^
-||pornbest.org###w2^
-||pornbest.org##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-2.px-0 > div.container-fluid > div.row.p-1:nth-child(10)^
-||pornbest.org##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-2.px-0 > div.container-fluid > h5.mt-3:nth-child(9)^
-||pornbest.org##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-2.px-0 > div.container-fluid > div.row.links:nth-child(17)^
-||libvio.me##body > div:nth-child(1) > div > div > div.stui-pannel__hd^
+novipnoad.com###slider
+m.v.qq.com###container-play > section.mod_box.mod_sideslip_privileges.U_box_bg_a
+m.v.qq.com###container-play > section.mod_box.mod_game_rec
+m.v.qq.com##SECTION.mod_box.mod_sideslip_h.mod_multi_figures_h
+m.v.qq.com##DIV.mod_app_banner
+film.qq.com##div.main_container:nth-child(2) > div.g_menubar:last-child
+m.v.qq.com###container-channel > header.site_header:first-child > div.site-top:first-child > a.site-top__open-app:last-child
+m.v.qq.com###container-channel > div.at-app-banner:last-child > div.at-app-banner__main-btn.at-app-banner--button
+m.v.qq.com###app > div.mod_play:nth-child(3) > header.site_header:first-child > a.btn_user_hd.js_open_app:nth-child(2)
+m.v.qq.com###container-play > section.mod_source:first-child
+m.v.qq.com###container-play > div.at-app-banner:last-child > div.at-app-banner__main-btn.at-app-banner--button
+pornlulu.com###w2
+pornfind.org##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > div.row.links:nth-child(13)
+pornfind.org##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > div.row.p-1:nth-child(6)
+pornfind.org###links
+pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > div.row.p-1:nth-child(11)
+pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > h5.mt-3:nth-child(10)
+pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > span:nth-child(6)
+pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > div.row.p-1:nth-child(10)
+pornlulu.com##div.wrapper:first-child > div.content-wrapper:nth-child(4) > div.content.py-1.py-md-2.px-0 > div.container-fluid > h5.mt-3:nth-child(9)
+pornlulu.com###w3
+pornbest.org##div.wrapper > div.content-wrapper > div > div > div.row.links
+pornbest.org###links
+pornbest.org###bottom-ads
+pornbest.org##div.wrapper > div.content-wrapper > div > div > h5
+pornbest.org##div.wrapper > div.content-wrapper > div > div > div.row.p-1
