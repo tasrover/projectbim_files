@@ -1,4 +1,3 @@
-novipnoad.com###slider
 m.v.qq.com###container-play > section.mod_box.mod_sideslip_privileges.U_box_bg_a
 m.v.qq.com###container-play > section.mod_box.mod_game_rec
 m.v.qq.com##SECTION.mod_box.mod_sideslip_h.mod_multi_figures_h
