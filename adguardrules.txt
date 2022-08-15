@@ -1,3 +1,5 @@
+freewechat.com###main > div.articles > div.freebrowser-ad
+freewechat.com###share-buttons
 tegouys.com##div.myui-nav__tabbar
 gimy.app###footernav
 m.v.qq.com###container-play > section.mod_box.mod_sideslip_privileges.U_box_bg_a
