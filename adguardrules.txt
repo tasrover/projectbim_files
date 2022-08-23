@@ -1,3 +1,7 @@
+m.douban.com###TalionNav > header > div > div.TalionNav-static
+m.douban.com###app > div > section > div:nth-child(3) > a > div.uf0Oe
+m.douban.com#$#body > div.page { margin-top:50px!important; }
+m.douban.com#$##app > div > section > div:nth-child(3) > a { pointer-events: none; }
 lvv2.com##body > a.dw_propt
 lvv2.com#$##top { margin-top:0px!important; }
 freewechat.com###main > div.articles > div.freebrowser-ad
