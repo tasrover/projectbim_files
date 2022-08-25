@@ -1,3 +1,5 @@
+ysgc.vip##body > div.myui-nav__tabbar
+ysgc.vip##body > ul.myui-extra
 m.douban.com###TalionNav > header > div > div.TalionNav-static
 m.douban.com###app > div > section > div:nth-child(3) > a > div.uf0Oe
 m.douban.com#$#body > div.page { margin-top:50px!important; }
