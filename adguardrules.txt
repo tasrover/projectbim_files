@@ -1,3 +1,8 @@
+! Title: Tasrover's AdGuard Rules
+! Author: Tasrover
+! Homepage: https://github.com/tasrover/projectbim_files
+! Updated: 2022-08-31
+
 ysgc.vip##body > div.myui-nav__tabbar
 ysgc.vip##body > ul.myui-extra
 m.douban.com###TalionNav > header > div > div.TalionNav-static
