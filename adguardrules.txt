@@ -1,8 +1,8 @@
 ! Title: Tasrover's AdGuard Rules
 ! Author: Tasrover
-! Version: 0.1
+! Version: 1.0.0.1
 ! Homepage: https://github.com/tasrover/projectbim_files
-! Updated: 2022-08-31 21:04:00
+! TimeUpdated: 2022-09-01T10:57:21
 
 ysgc.vip##body > div.myui-nav__tabbar
 ysgc.vip##body > ul.myui-extra
