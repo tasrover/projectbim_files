@@ -1,0 +1,7 @@
+# 自定义去广告规则
+
+# 规则示例
+# DOMAIN-SUFFIX,advertising.com
+# DOMAIN-KEYWORD,adwords
+
+# 过滤列表
