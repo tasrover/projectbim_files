@@ -1,0 +1,8 @@
+# 自定义直连规则
+
+# 规则示例
+# DOMAIN-SUFFIX,cn
+# DOMAIN-KEYWORD,alipay
+# IP-CIDR,8.128.0.0/10,no-resolve
+
+# 直连列表
