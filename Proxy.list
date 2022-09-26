@@ -1,0 +1,8 @@
+# 自定义代理规则
+
+# 规则示例
+# DOMAIN-SUFFIX,google.com
+# DOMAIN-KEYWORD,google
+# IP-CIDR,50.22.198.204/30,no-resolve
+
+# 代理列表
