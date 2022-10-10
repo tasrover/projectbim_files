@@ -4,8 +4,6 @@
 ! Homepage: https://github.com/tasrover/projectbim_files
 ! TimeUpdated: 2022-10-10T11:26:00
 
-instagram.com###mount_0_0_fy > div > div > div > div.BaseView.x9f619.x1n2onr6.x1ja2u2z > div > div > div > div.CometHeroInteractionImpl.x78zum5.xdt5ytf.x10cihs4.x1t2pt76.x1n2onr6.x1ja2u2z > section > main > div:nth-child(1) > section > div > div._aac4.__web-inspector-hide-shortcut__
-instagram.com###mount_0_0_fy > div > div > div > div.BaseView.x9f619.x1n2onr6.x1ja2u2z > div > div > div > div.CometHeroInteractionImpl.x78zum5.xdt5ytf.x10cihs4.x1t2pt76.x1n2onr6.x1ja2u2z > section > div.PolarisLoggedInAppBanner._acc8
 ysgc.vip##body > div.myui-nav__tabbar
 ysgc.vip##body > ul.myui-extra
 m.douban.com###TalionNav > header > div > div.TalionNav-static
