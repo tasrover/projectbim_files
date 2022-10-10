@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/tasrover/projectbim_files
 ! TimeUpdated: 2022-10-10T11:26:00
 
+instagram.com##div.PolarisFeedPage > div > div:nth-child(2)
 ysgc.vip##body > div.myui-nav__tabbar
 ysgc.vip##body > ul.myui-extra
 m.douban.com###TalionNav > header > div > div.TalionNav-static
