@@ -1,9 +1,10 @@
 ! Title: Tasrover's AdGuard Rules
 ! Author: Tasrover
-! Version: 1.0.0.2
+! Version: 1.0.0.3
 ! Homepage: https://github.com/tasrover/projectbim_files
-! TimeUpdated: 2022-10-10T11:26:00
+! TimeUpdated: 2023-04-13T17:00:00
 
+#juejin##div.view-container > div.open-button.app-open-button
 instagram.com##section.PolarisFeedPage > div > div:nth-child(2)
 instagram.com##div.PolarisLoggedInAppBanner
 ysgc.vip##body > div.myui-nav__tabbar
